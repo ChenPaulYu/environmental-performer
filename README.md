@@ -49,8 +49,8 @@ open main.pd
 
 ### Demo
 
-<a href="https://imgur.com/a/T6FI4XA" target="_blank">
- <img src="http://img.youtube.com/vi/D4N2EQWvRNA/mqdefault.jpg" alt="Watch the video" width="640" height="480" border="10" />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=D4N2EQWvRNA" target="_blank">
+ <img src="https://imgur.com/a/T6FI4XA" alt="Watch the video" width="640" height="480" border="10" />
 </a>
 
 
