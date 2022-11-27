@@ -50,7 +50,7 @@ open main.pd
 ### Demo
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=D4N2EQWvRNA" target="_blank">
- <img src="https://imgur.com/a/T6FI4XA" alt="Watch the video" width="640" height="480" border="10" />
+ <img src="https://i.imgur.com/a8CVyvy.png" alt="Watch the video" width="640" height="480" border="10" />
 </a>
 
 
