@@ -49,9 +49,6 @@ open main.pd
 
 ### Demo
 
-<div class="embed-container">
-    <iframe width="640" height="390" 
-    src="https://www.youtube.com/embed/D4N2EQWvRNA" 
-    frameborder="0" allowfullscreen></iframe>
-</div>
+[![Watch the video](https://img.youtube.com/vi/D4N2EQWvRNA/default.jpg)](https://youtu.be/D4N2EQWvRNA)
+
 
