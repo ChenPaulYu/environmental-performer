@@ -4,7 +4,7 @@
 
 ## Overview 
 
-In our daily lives, natural sounds (e.g., birds, water, wind) are all around us, but we often don't pay attention to them. Instead, we always plug in the AirPods and listen to music on our phones. Instead, we wear earphones and listen to music most of the time. We raise a question about whether all the natural sounds are a kind of music we are unaware of. Thus, we envision a future that people can understand this kind of music performed by nature in a dimension we never knew. To listen to this kind of music, we get help from current AI technology to transfer the sound from natural sound to the music performed by the instrument. More specifically, we use the [neural waveshaping synthesis](https://github.com/ben-hayes/neural-waveshaping-synthesis) model to do the timbre transfer between natural sound and music performed by musical instruments. 
+In our daily lives, natural sounds (e.g., birds, water, wind) are all around us, but we often don't pay attention to them. Instead, we wear earphones and listen to music most of the time. We raise a question about whether all the natural sounds are a kind of music we are unaware of. Thus, we envision a future that people can understand this kind of music performed by nature in a dimension we never knew. To listen to this kind of music, we get help from current AI technology to transfer the sound from natural sound to the music performed by the instrument. More specifically, we use the [neural waveshaping synthesis](https://github.com/ben-hayes/neural-waveshaping-synthesis) model to do the timbre transfer between natural sound and music performed by musical instruments. 
 
 
 ## Setup 
